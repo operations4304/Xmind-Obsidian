@@ -1,5 +1,9 @@
 # Xmind-Obsidian
 
+知乎文字链接：[用Quicker设置Obsidian到Xmind的跳转、回链动作](https://zhuanlan.zhihu.com/p/690730357)
+
+哔哩哔哩视频链接：[Obsidian与Xmind：用Quicker摘录图片，并带上跳转链接](https://www.bilibili.com/video/BV1fH4y1V7CR/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c08c205650a4a5e13d87475ab1ab2431)
+
 用Quicker可以帮助我们完成一些繁琐的、需要多个操作步骤的动作。
 
 这篇文章中，我用Quicker将的Xmind导出的思维导图图片复制到到Obsidian文件夹、并制作回链且按照callout格式复制到Obsidian笔记中，使之点击Obsidian中的链接能自动打开xmind导图。
